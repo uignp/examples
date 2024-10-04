@@ -1,6 +1,7 @@
 {
   "name": "react-nextjs",
   "version": "0.0.0",
+  "homepage": "./",
   "private": true,
   "repository": "twbs/examples",
   "license": "MIT",
